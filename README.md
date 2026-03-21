@@ -8,7 +8,7 @@ Each folder is a topic. Each markdown file is a chapter. All files are structure
 
 | Topic | Files | Date |
 |-------|-------|------|
-| *(first topic coming soon)* | — | — |
+| [claude-code-agent-workspace](./claude-code-agent-workspace/) | 4 files | Mar 2026 |
 
 ## How to Use
 
