@@ -46,8 +46,8 @@ Notion, GitHub, Slack = .mcp.json add-ons. Each person adds what they need. Star
 | BOOTSTRAP.md self-deletes | Clean first-run experience |
 
 ## Action Items
-- [ ] Name the project
-- [ ] Build the starter codebase in Claude Code / Antigravity
+- [x] Name the project → **Groundwork**
+- [ ] Build the starter codebase in Claude Code / Antigravity → repo: `groundwork`
 - [ ] Write CLAUDE.md template
 - [ ] Write SOUL.md template (opinionated but customizable)
 - [ ] Write USER.md template
